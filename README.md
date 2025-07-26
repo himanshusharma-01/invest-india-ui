@@ -18,5 +18,3 @@ A modern stock market-themed React web app, built using:
 2. Run `npm install`
 3. Run `npm run dev`
 
-## Demo (If deployed)
-[https://invest-india-ui.vercel.app](https://invest-india-ui.vercel.app) <!-- update if deployed -->
